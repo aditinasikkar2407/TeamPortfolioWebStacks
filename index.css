@@ -94,7 +94,7 @@ a:focus {
 .hero {
     text-align: left;
     padding: 14rem 0 25rem;
-    background-image: url("../img/background.jpg");
+    background-image: url("img/background.jpg");
     background-size: cover;
     background-position: bottom right;
 }
